@@ -1,0 +1,15 @@
+2024-03-17 16:33:06,757 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.22:8000
+2024-03-17 16:33:06,758 - [33mPress CTRL+C to quit[0m
+2024-03-17 16:33:43,336 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,337 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,338 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,339 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,339 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,340 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,341 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,341 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,342 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
+2024-03-17 16:33:43,343 - 127.0.0.1 - - [17/Mar/2024 16:33:43] "[33mPOST /process_image HTTP/1.1[0m" 404 -
