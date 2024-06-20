@@ -1,0 +1,915 @@
+2024-03-18 22:43:18,157 - Hi Ishuu
+2024-03-18 22:43:18,159 - Received request for test_239.jpg
+2024-03-18 22:43:18,163 - Hi Ishuu
+2024-03-18 22:43:18,167 - Received request for test_749.jpg
+2024-03-18 22:43:18,171 - Hi Ishuu
+2024-03-18 22:43:18,177 - Received request for test_588.jpg
+2024-03-18 22:43:18,177 - Hi Ishuu
+2024-03-18 22:43:18,172 - Hi Ishuu
+2024-03-18 22:43:18,181 - Received request for test_952.jpg
+2024-03-18 22:43:18,184 - Hi Ishuu
+2024-03-18 22:43:18,186 - Hi Ishuu
+2024-03-18 22:43:18,189 - Received request for test_991.jpg
+2024-03-18 22:43:18,190 - Received request for test_577.jpg
+2024-03-18 22:43:18,185 - Hi Ishuu
+2024-03-18 22:43:18,194 - Received request for test_946.jpg
+2024-03-18 22:43:18,180 - Hi Ishuu
+2024-03-18 22:43:18,198 - Received request for test_205.jpg
+2024-03-18 22:43:18,194 - Received request for test_211.jpg
+2024-03-18 22:43:18,286 - Hi Ishuu
+2024-03-18 22:43:18,287 - Received request for test_563.jpg
+2024-03-18 22:43:19,391 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_239.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,400 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_749.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,423 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_588.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,435 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_952.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,474 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_577.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,478 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_991.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,481 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_211.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,505 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_205.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,509 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_563.jpg to 1225364608-in-bucket
+2024-03-18 22:43:19,517 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_946.jpg to 1225364608-in-bucket
+2024-03-18 22:43:20,571 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_749.jpg
+2024-03-18 22:43:20,578 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_239.jpg
+2024-03-18 22:43:20,584 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_577.jpg
+2024-03-18 22:43:20,590 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_946.jpg
+2024-03-18 22:43:20,592 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_588.jpg
+2024-03-18 22:43:20,597 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_991.jpg
+2024-03-18 22:43:20,598 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_563.jpg
+2024-03-18 22:43:20,598 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_205.jpg
+2024-03-18 22:43:20,599 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_952.jpg
+2024-03-18 22:43:20,600 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_211.jpg
+2024-03-18 22:45:14,772 - Result found for test_946 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 22:45:14,805 - Result found for test_588 = Bill. Hence taking it and deleting it from DB
+2024-03-18 22:45:15,769 - Result found for test_991 = Emily. Hence taking it and deleting it from DB
+2024-03-18 22:45:15,774 - Result found for test_952 = Bob. Hence taking it and deleting it from DB
+2024-03-18 22:45:15,779 - Result found for test_205 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 22:45:15,790 - Result found for test_239 = Wang. Hence taking it and deleting it from DB
+2024-03-18 22:45:15,805 - Result found for test_211 = Emily. Hence taking it and deleting it from DB
+2024-03-18 22:45:18,782 - Result found for test_749 = Wang. Hence taking it and deleting it from DB
+2024-03-18 22:45:18,791 - Result found for test_563 = German. Hence taking it and deleting it from DB
+2024-03-18 22:45:19,775 - Result found for test_577 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 22:55:29,869 - Hi Ishuu
+2024-03-18 22:55:29,871 - Received request for test_211.jpg
+2024-03-18 22:55:29,872 - Hi Ishuu
+2024-03-18 22:55:29,873 - Received request for test_205.jpg
+2024-03-18 22:55:29,875 - Hi Ishuu
+2024-03-18 22:55:29,877 - Hi Ishuu
+2024-03-18 22:55:29,879 - Received request for test_749.jpg
+2024-03-18 22:55:29,879 - Received request for test_239.jpg
+2024-03-18 22:55:29,883 - Hi Ishuu
+2024-03-18 22:55:29,885 - Received request for test_563.jpg
+2024-03-18 22:55:29,886 - Hi Ishuu
+2024-03-18 22:55:29,888 - Received request for test_991.jpg
+2024-03-18 22:55:29,890 - Hi Ishuu
+2024-03-18 22:55:29,891 - Received request for test_946.jpg
+2024-03-18 22:55:29,893 - Hi Ishuu
+2024-03-18 22:55:29,894 - Received request for test_952.jpg
+2024-03-18 22:55:29,896 - Hi Ishuu
+2024-03-18 22:55:29,906 - Received request for test_588.jpg
+2024-03-18 22:55:29,908 - Hi Ishuu
+2024-03-18 22:55:29,911 - Received request for test_577.jpg
+2024-03-18 22:55:30,655 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_211.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,659 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_952.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,668 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_205.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,672 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_577.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,678 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_991.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,680 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_239.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,682 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_563.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,686 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_588.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,692 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_749.jpg to 1225364608-in-bucket
+2024-03-18 22:55:30,712 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_946.jpg to 1225364608-in-bucket
+2024-03-18 22:55:31,352 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_952.jpg
+2024-03-18 22:55:31,353 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_211.jpg
+2024-03-18 22:55:31,356 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_749.jpg
+2024-03-18 22:55:31,357 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_991.jpg
+2024-03-18 22:55:31,357 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_577.jpg
+2024-03-18 22:55:31,360 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_563.jpg
+2024-03-18 22:55:31,363 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_205.jpg
+2024-03-18 22:55:31,367 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_239.jpg
+2024-03-18 22:55:31,370 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_588.jpg
+2024-03-18 22:55:31,371 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_946.jpg
+2024-03-18 22:58:17,621 - Result found for test_946 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 22:58:19,633 - Result found for test_205 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 22:58:22,645 - Result found for test_239 = Wang. Hence taking it and deleting it from DB
+2024-03-18 22:58:25,641 - Result found for test_211 = Emily. Hence taking it and deleting it from DB
+2024-03-18 22:58:28,645 - Result found for test_749 = Wang. Hence taking it and deleting it from DB
+2024-03-18 22:58:31,657 - Result found for test_588 = Bill. Hence taking it and deleting it from DB
+2024-03-18 22:58:31,665 - Result found for test_563 = German. Hence taking it and deleting it from DB
+2024-03-18 22:58:31,674 - Result found for test_952 = Bob. Hence taking it and deleting it from DB
+2024-03-18 22:58:32,651 - Result found for test_991 = Emily. Hence taking it and deleting it from DB
+2024-03-18 22:58:32,659 - Result found for test_577 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:06:29,072 - Hi Ishuu
+2024-03-18 23:06:29,073 - Hi Ishuu
+2024-03-18 23:06:29,075 - Received request for test_749.jpg
+2024-03-18 23:06:29,077 - Hi Ishuu
+2024-03-18 23:06:29,078 - Hi Ishuu
+2024-03-18 23:06:29,079 - Hi Ishuu
+2024-03-18 23:06:29,080 - Received request for test_239.jpg
+2024-03-18 23:06:29,085 - Received request for test_577.jpg
+2024-03-18 23:06:29,072 - Hi Ishuu
+2024-03-18 23:06:29,086 - Received request for test_205.jpg
+2024-03-18 23:06:29,088 - Received request for test_991.jpg
+2024-03-18 23:06:29,083 - Hi Ishuu
+2024-03-18 23:06:29,090 - Received request for test_952.jpg
+2024-03-18 23:06:29,082 - Hi Ishuu
+2024-03-18 23:06:29,083 - Hi Ishuu
+2024-03-18 23:06:29,092 - Received request for test_946.jpg
+2024-03-18 23:06:29,091 - Received request for test_563.jpg
+2024-03-18 23:06:29,087 - Received request for test_588.jpg
+2024-03-18 23:06:29,096 - Hi Ishuu
+2024-03-18 23:06:29,099 - Received request for test_211.jpg
+2024-03-18 23:06:29,818 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_991.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,820 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_749.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,823 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_205.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,846 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_952.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,850 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_563.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,853 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_588.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,855 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_211.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,857 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_577.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,863 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_239.jpg to 1225364608-in-bucket
+2024-03-18 23:06:29,870 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_946.jpg to 1225364608-in-bucket
+2024-03-18 23:06:30,507 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_749.jpg
+2024-03-18 23:06:30,514 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_205.jpg
+2024-03-18 23:06:30,516 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_952.jpg
+2024-03-18 23:06:30,521 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_563.jpg
+2024-03-18 23:06:30,522 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_577.jpg
+2024-03-18 23:06:30,520 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_588.jpg
+2024-03-18 23:06:30,525 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_211.jpg
+2024-03-18 23:06:30,527 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_991.jpg
+2024-03-18 23:06:30,539 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_946.jpg
+2024-03-18 23:06:30,540 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_239.jpg
+2024-03-18 23:09:26,778 - Result found for test_577 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:09:30,792 - Result found for test_749 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:09:31,803 - Result found for test_991 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:09:32,786 - Result found for test_563 = German. Hence taking it and deleting it from DB
+2024-03-18 23:09:33,798 - Result found for test_239 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:09:34,797 - Result found for test_205 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:09:35,809 - Result found for test_211 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:09:39,809 - Result found for test_946 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:09:40,824 - Result found for test_588 = Bill. Hence taking it and deleting it from DB
+2024-03-18 23:09:42,826 - Result found for test_952 = Bob. Hence taking it and deleting it from DB
+2024-03-18 23:16:54,419 - Hi Ishuu
+2024-03-18 23:16:54,421 - Hi Ishuu
+2024-03-18 23:16:54,423 - Hi Ishuu
+2024-03-18 23:16:54,426 - Hi Ishuu
+2024-03-18 23:16:54,427 - Hi Ishuu
+2024-03-18 23:16:54,422 - Hi Ishuu
+2024-03-18 23:16:54,432 - Received request for test_761.jpg
+2024-03-18 23:16:54,426 - Hi Ishuu
+2024-03-18 23:16:54,437 - Hi Ishuu
+2024-03-18 23:16:54,438 - Hi Ishuu
+2024-03-18 23:16:54,440 - Received request for test_563.jpg
+2024-03-18 23:16:54,420 - Hi Ishuu
+2024-03-18 23:16:54,433 - Hi Ishuu
+2024-03-18 23:16:54,445 - Received request for test_832.jpg
+2024-03-18 23:16:54,427 - Hi Ishuu
+2024-03-18 23:16:54,447 - Received request for test_577.jpg
+2024-03-18 23:16:54,439 - Received request for test_991.jpg
+2024-03-18 23:16:54,429 - Received request for test_946.jpg
+2024-03-18 23:16:54,441 - Received request for test_013.jpg
+2024-03-18 23:16:54,444 - Received request for test_198.jpg
+2024-03-18 23:16:54,452 - Received request for test_239.jpg
+2024-03-18 23:16:54,450 - Received request for test_952.jpg
+2024-03-18 23:16:54,445 - Received request for test_588.jpg
+2024-03-18 23:16:54,447 - Received request for test_826.jpg
+2024-03-18 23:16:54,459 - Hi Ishuu
+2024-03-18 23:16:54,461 - Hi Ishuu
+2024-03-18 23:16:54,463 - Hi Ishuu
+2024-03-18 23:16:54,463 - Hi Ishuu
+2024-03-18 23:16:54,463 - Hi Ishuu
+2024-03-18 23:16:54,465 - Received request for test_601.jpg
+2024-03-18 23:16:54,467 - Received request for test_205.jpg
+2024-03-18 23:16:54,468 - Received request for test_775.jpg
+2024-03-18 23:16:54,469 - Received request for test_629.jpg
+2024-03-18 23:16:54,476 - Received request for test_007.jpg
+2024-03-18 23:16:54,473 - Hi Ishuu
+2024-03-18 23:16:54,480 - Received request for test_985.jpg
+2024-03-18 23:16:54,476 - Hi Ishuu
+2024-03-18 23:16:54,477 - Hi Ishuu
+2024-03-18 23:16:54,483 - Received request for test_416.jpg
+2024-03-18 23:16:54,474 - Hi Ishuu
+2024-03-18 23:16:54,485 - Received request for test_211.jpg
+2024-03-18 23:16:54,475 - Hi Ishuu
+2024-03-18 23:16:54,487 - Received request for test_749.jpg
+2024-03-18 23:16:54,482 - Received request for test_173.jpg
+2024-03-18 23:16:54,547 - Hi Ishuu
+2024-03-18 23:16:54,568 - Hi Ishuu
+2024-03-18 23:16:54,569 - Hi Ishuu
+2024-03-18 23:16:54,579 - Received request for test_953.jpg
+2024-03-18 23:16:54,575 - Received request for test_748.jpg
+2024-03-18 23:16:54,595 - Received request for test_947.jpg
+2024-03-18 23:16:56,232 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_577.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,236 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_761.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,240 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_826.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,241 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_239.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,254 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_952.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,282 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_563.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,315 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_991.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,331 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_198.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,335 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_013.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,362 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_832.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,370 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_946.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,372 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_205.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,391 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_749.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,395 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_985.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,414 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_629.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,436 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_601.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,466 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_173.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,474 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_588.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,490 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_211.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,507 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_775.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,514 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_748.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,528 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_947.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,535 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_007.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,574 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_416.jpg to 1225364608-in-bucket
+2024-03-18 23:16:56,578 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_953.jpg to 1225364608-in-bucket
+2024-03-18 23:16:57,939 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_239.jpg
+2024-03-18 23:16:57,989 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_761.jpg
+2024-03-18 23:16:58,013 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_952.jpg
+2024-03-18 23:16:58,025 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_577.jpg
+2024-03-18 23:16:58,056 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_946.jpg
+2024-03-18 23:16:58,059 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_749.jpg
+2024-03-18 23:16:58,067 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_563.jpg
+2024-03-18 23:16:58,070 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_013.jpg
+2024-03-18 23:16:58,059 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_826.jpg
+2024-03-18 23:16:58,086 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_198.jpg
+2024-03-18 23:16:58,088 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_991.jpg
+2024-03-18 23:16:58,089 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_985.jpg
+2024-03-18 23:16:58,093 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_588.jpg
+2024-03-18 23:16:58,065 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_629.jpg
+2024-03-18 23:16:58,097 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_205.jpg
+2024-03-18 23:16:58,098 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_601.jpg
+2024-03-18 23:16:58,104 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_173.jpg
+2024-03-18 23:16:58,107 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_832.jpg
+2024-03-18 23:16:58,110 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_211.jpg
+2024-03-18 23:16:58,111 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_775.jpg
+2024-03-18 23:16:58,117 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_953.jpg
+2024-03-18 23:16:58,119 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_947.jpg
+2024-03-18 23:16:58,124 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_416.jpg
+2024-03-18 23:16:58,128 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_007.jpg
+2024-03-18 23:16:58,131 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_748.jpg
+2024-03-18 23:19:28,311 - Result found for test_832 = Bob. Hence taking it and deleting it from DB
+2024-03-18 23:19:28,313 - Hi Ishuu
+2024-03-18 23:19:28,315 - Received request for test_990.jpg
+2024-03-18 23:19:28,500 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_990.jpg to 1225364608-in-bucket
+2024-03-18 23:19:28,593 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_990.jpg
+2024-03-18 23:19:38,263 - Result found for test_952 = Bob. Hence taking it and deleting it from DB
+2024-03-18 23:19:48,346 - Result found for test_211 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:19:49,286 - Result found for test_761 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:19:54,339 - Result found for test_749 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:19:59,347 - Result found for test_946 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:01,350 - Result found for test_013 = German. Hence taking it and deleting it from DB
+2024-03-18 23:20:01,352 - Hi Ishuu
+2024-03-18 23:20:01,354 - Received request for test_370.jpg
+2024-03-18 23:20:01,477 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_370.jpg to 1225364608-in-bucket
+2024-03-18 23:20:01,568 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_370.jpg
+2024-03-18 23:20:06,362 - Result found for test_953 = German. Hence taking it and deleting it from DB
+2024-03-18 23:20:07,359 - Result found for test_826 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:08,323 - Result found for test_577 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:20:08,360 - Result found for test_601 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:20:08,362 - Hi Ishuu
+2024-03-18 23:20:08,363 - Received request for test_364.jpg
+2024-03-18 23:20:08,391 - Result found for test_748 = Bill. Hence taking it and deleting it from DB
+2024-03-18 23:20:08,494 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_364.jpg to 1225364608-in-bucket
+2024-03-18 23:20:08,500 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_364.jpg
+2024-03-18 23:20:09,360 - Result found for test_198 = Bill. Hence taking it and deleting it from DB
+2024-03-18 23:20:09,373 - Result found for test_947 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:20:09,381 - Result found for test_007 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:20:10,368 - Result found for test_205 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:11,377 - Result found for test_563 = German. Hence taking it and deleting it from DB
+2024-03-18 23:20:11,379 - Hi Ishuu
+2024-03-18 23:20:11,381 - Received request for test_417.jpg
+2024-03-18 23:20:11,386 - Result found for test_629 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:20:11,422 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_417.jpg to 1225364608-in-bucket
+2024-03-18 23:20:11,428 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_417.jpg
+2024-03-18 23:20:11,664 - Result found for test_990 = Paul. Hence taking it and deleting it from DB
+2024-03-18 23:20:13,394 - Result found for test_588 = Bill. Hence taking it and deleting it from DB
+2024-03-18 23:20:13,398 - Result found for test_173 = German. Hence taking it and deleting it from DB
+2024-03-18 23:20:13,595 - Result found for test_370 = Paul. Hence taking it and deleting it from DB
+2024-03-18 23:20:13,596 - Hi Ishuu
+2024-03-18 23:20:13,598 - Received request for test_167.jpg
+2024-03-18 23:20:13,669 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_167.jpg to 1225364608-in-bucket
+2024-03-18 23:20:13,676 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_167.jpg
+2024-03-18 23:20:14,263 - Result found for test_239 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:20:14,366 - Result found for test_991 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:20:14,368 - Hi Ishuu
+2024-03-18 23:20:14,369 - Received request for test_359.jpg
+2024-03-18 23:20:14,400 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_359.jpg to 1225364608-in-bucket
+2024-03-18 23:20:14,407 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_359.jpg
+2024-03-18 23:20:14,515 - Result found for test_364 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:20:14,516 - Hi Ishuu
+2024-03-18 23:20:14,517 - Received request for test_365.jpg
+2024-03-18 23:20:14,608 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_365.jpg to 1225364608-in-bucket
+2024-03-18 23:20:14,615 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_365.jpg
+2024-03-18 23:20:16,381 - Result found for test_985 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:16,383 - Hi Ishuu
+2024-03-18 23:20:16,384 - Received request for test_371.jpg
+2024-03-18 23:20:16,416 - Result found for test_775 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:16,437 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_371.jpg to 1225364608-in-bucket
+2024-03-18 23:20:16,445 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_371.jpg
+2024-03-18 23:20:17,418 - Result found for test_416 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:17,444 - Result found for test_417 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:20:17,445 - Hi Ishuu
+2024-03-18 23:20:17,447 - Received request for test_403.jpg
+2024-03-18 23:20:17,474 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_403.jpg to 1225364608-in-bucket
+2024-03-18 23:20:17,482 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_403.jpg
+2024-03-18 23:20:20,696 - Result found for test_167 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:20:20,698 - Hi Ishuu
+2024-03-18 23:20:20,699 - Received request for test_615.jpg
+2024-03-18 23:20:20,728 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_615.jpg to 1225364608-in-bucket
+2024-03-18 23:20:20,736 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_615.jpg
+2024-03-18 23:20:22,432 - Result found for test_359 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:20:22,434 - Hi Ishuu
+2024-03-18 23:20:22,435 - Received request for test_600.jpg
+2024-03-18 23:20:22,458 - Result found for test_371 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:20:22,460 - Hi Ishuu
+2024-03-18 23:20:22,461 - Received request for test_614.jpg
+2024-03-18 23:20:22,501 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_600.jpg to 1225364608-in-bucket
+2024-03-18 23:20:22,508 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_600.jpg
+2024-03-18 23:20:22,579 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_614.jpg to 1225364608-in-bucket
+2024-03-18 23:20:22,586 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_614.jpg
+2024-03-18 23:20:22,631 - Result found for test_365 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:22,632 - Hi Ishuu
+2024-03-18 23:20:22,634 - Received request for test_402.jpg
+2024-03-18 23:20:22,708 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_402.jpg to 1225364608-in-bucket
+2024-03-18 23:20:22,715 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_402.jpg
+2024-03-18 23:20:24,497 - Result found for test_403 = German. Hence taking it and deleting it from DB
+2024-03-18 23:20:24,499 - Hi Ishuu
+2024-03-18 23:20:24,500 - Received request for test_166.jpg
+2024-03-18 23:20:24,578 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_166.jpg to 1225364608-in-bucket
+2024-03-18 23:20:24,586 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_166.jpg
+2024-03-18 23:20:28,520 - Result found for test_600 = Paul. Hence taking it and deleting it from DB
+2024-03-18 23:20:28,522 - Hi Ishuu
+2024-03-18 23:20:28,523 - Received request for test_358.jpg
+2024-03-18 23:20:28,595 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_358.jpg to 1225364608-in-bucket
+2024-03-18 23:20:28,602 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_358.jpg
+2024-03-18 23:20:29,599 - Result found for test_614 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:20:29,600 - Hi Ishuu
+2024-03-18 23:20:29,602 - Received request for test_172.jpg
+2024-03-18 23:20:29,609 - Result found for test_166 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:29,610 - Hi Ishuu
+2024-03-18 23:20:29,611 - Received request for test_006.jpg
+2024-03-18 23:20:29,641 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_172.jpg to 1225364608-in-bucket
+2024-03-18 23:20:29,648 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_172.jpg
+2024-03-18 23:20:29,729 - Result found for test_402 = Bob. Hence taking it and deleting it from DB
+2024-03-18 23:20:29,731 - Hi Ishuu
+2024-03-18 23:20:29,732 - Received request for test_628.jpg
+2024-03-18 23:20:29,740 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_006.jpg to 1225364608-in-bucket
+2024-03-18 23:20:29,745 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_006.jpg
+2024-03-18 23:20:29,792 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_628.jpg to 1225364608-in-bucket
+2024-03-18 23:20:29,799 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_628.jpg
+2024-03-18 23:20:30,754 - Result found for test_615 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:30,756 - Hi Ishuu
+2024-03-18 23:20:30,757 - Received request for test_199.jpg
+2024-03-18 23:20:30,785 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_199.jpg to 1225364608-in-bucket
+2024-03-18 23:20:30,792 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_199.jpg
+2024-03-18 23:20:32,621 - Result found for test_358 = Bill. Hence taking it and deleting it from DB
+2024-03-18 23:20:32,622 - Hi Ishuu
+2024-03-18 23:20:32,624 - Received request for test_833.jpg
+2024-03-18 23:20:32,678 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_833.jpg to 1225364608-in-bucket
+2024-03-18 23:20:32,686 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_833.jpg
+2024-03-18 23:20:33,659 - Result found for test_172 = Bob. Hence taking it and deleting it from DB
+2024-03-18 23:20:33,660 - Hi Ishuu
+2024-03-18 23:20:33,661 - Received request for test_827.jpg
+2024-03-18 23:20:33,735 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_827.jpg to 1225364608-in-bucket
+2024-03-18 23:20:33,742 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_827.jpg
+2024-03-18 23:20:33,810 - Result found for test_628 = Bill. Hence taking it and deleting it from DB
+2024-03-18 23:20:33,812 - Hi Ishuu
+2024-03-18 23:20:33,813 - Received request for test_760.jpg
+2024-03-18 23:20:33,874 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_760.jpg to 1225364608-in-bucket
+2024-03-18 23:20:33,881 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_760.jpg
+2024-03-18 23:20:35,758 - Result found for test_006 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:35,759 - Hi Ishuu
+2024-03-18 23:20:35,761 - Received request for test_774.jpg
+2024-03-18 23:20:35,792 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_774.jpg to 1225364608-in-bucket
+2024-03-18 23:20:35,800 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_774.jpg
+2024-03-18 23:20:36,805 - Result found for test_199 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:20:36,807 - Hi Ishuu
+2024-03-18 23:20:36,808 - Received request for test_012.jpg
+2024-03-18 23:20:36,845 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_012.jpg to 1225364608-in-bucket
+2024-03-18 23:20:36,851 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_012.jpg
+2024-03-18 23:20:37,698 - Result found for test_833 = German. Hence taking it and deleting it from DB
+2024-03-18 23:20:37,700 - Hi Ishuu
+2024-03-18 23:20:37,701 - Received request for test_984.jpg
+2024-03-18 23:20:37,767 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_984.jpg to 1225364608-in-bucket
+2024-03-18 23:20:37,785 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_984.jpg
+2024-03-18 23:20:39,820 - Result found for test_774 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:20:39,900 - Result found for test_760 = Paul. Hence taking it and deleting it from DB
+2024-03-18 23:20:40,863 - Result found for test_012 = Bob. Hence taking it and deleting it from DB
+2024-03-18 23:20:41,758 - Result found for test_827 = Ranil. Hence taking it and deleting it from DB
+2024-03-18 23:20:45,802 - Result found for test_984 = Emily. Hence taking it and deleting it from DB
+2024-03-18 23:20:45,988 - Hi Ishuu
+2024-03-18 23:20:45,988 - Hi Ishuu
+2024-03-18 23:20:45,989 - Hi Ishuu
+2024-03-18 23:20:45,991 - Received request for test_826.jpg
+2024-03-18 23:20:45,992 - Received request for test_629.jpg
+2024-03-18 23:20:45,993 - Received request for test_946.jpg
+2024-03-18 23:20:46,263 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_946.jpg to 1225364608-in-bucket
+2024-03-18 23:20:46,275 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_826.jpg to 1225364608-in-bucket
+2024-03-18 23:20:46,318 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_629.jpg to 1225364608-in-bucket
+2024-03-18 23:20:46,463 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_946.jpg
+2024-03-18 23:20:46,468 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_826.jpg
+2024-03-18 23:20:46,492 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_629.jpg
+2024-03-18 23:20:50,478 - Result found for test_826 = Gerry. Hence taking it and deleting it from DB
+2024-03-18 23:20:52,506 - Result found for test_629 = Wang. Hence taking it and deleting it from DB
+2024-03-18 23:20:53,478 - Result found for test_946 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:18:07,238 - Hi Ishuu
+2024-03-19 05:18:07,240 - Hi Ishuu
+2024-03-19 05:18:07,241 - Received request for test_629.jpg
+2024-03-19 05:18:07,239 - Hi Ishuu
+2024-03-19 05:18:07,245 - Hi Ishuu
+2024-03-19 05:18:07,247 - Received request for test_946.jpg
+2024-03-19 05:18:07,247 - Received request for test_952.jpg
+2024-03-19 05:18:07,242 - Received request for test_239.jpg
+2024-03-19 05:18:07,250 - Hi Ishuu
+2024-03-19 05:18:07,252 - Received request for test_749.jpg
+2024-03-19 05:18:07,253 - Hi Ishuu
+2024-03-19 05:18:07,255 - Received request for test_826.jpg
+2024-03-19 05:18:07,254 - Hi Ishuu
+2024-03-19 05:18:07,256 - Received request for test_985.jpg
+2024-03-19 05:18:07,254 - Hi Ishuu
+2024-03-19 05:18:07,259 - Received request for test_588.jpg
+2024-03-19 05:18:07,262 - Hi Ishuu
+2024-03-19 05:18:07,263 - Received request for test_563.jpg
+2024-03-19 05:18:07,264 - Hi Ishuu
+2024-03-19 05:18:07,265 - Received request for test_577.jpg
+2024-03-19 05:18:07,267 - Hi Ishuu
+2024-03-19 05:18:07,271 - Received request for test_173.jpg
+2024-03-19 05:18:07,267 - Hi Ishuu
+2024-03-19 05:18:07,268 - Hi Ishuu
+2024-03-19 05:18:07,268 - Hi Ishuu
+2024-03-19 05:18:07,275 - Received request for test_601.jpg
+2024-03-19 05:18:07,273 - Received request for test_991.jpg
+2024-03-19 05:18:07,274 - Received request for test_198.jpg
+2024-03-19 05:18:07,269 - Hi Ishuu
+2024-03-19 05:18:07,279 - Received request for test_007.jpg
+2024-03-19 05:18:07,284 - Hi Ishuu
+2024-03-19 05:18:07,285 - Hi Ishuu
+2024-03-19 05:18:07,288 - Received request for test_370.jpg
+2024-03-19 05:18:07,285 - Hi Ishuu
+2024-03-19 05:18:07,290 - Received request for test_365.jpg
+2024-03-19 05:18:07,287 - Received request for test_761.jpg
+2024-03-19 05:18:07,296 - Hi Ishuu
+2024-03-19 05:18:07,296 - Hi Ishuu
+2024-03-19 05:18:07,297 - Hi Ishuu
+2024-03-19 05:18:07,301 - Received request for test_172.jpg
+2024-03-19 05:18:07,300 - Received request for test_614.jpg
+2024-03-19 05:18:07,297 - Hi Ishuu
+2024-03-19 05:18:07,303 - Received request for test_364.jpg
+2024-03-19 05:18:07,299 - Received request for test_205.jpg
+2024-03-19 05:18:07,309 - Hi Ishuu
+2024-03-19 05:18:07,311 - Received request for test_211.jpg
+2024-03-19 05:18:07,323 - Hi Ishuu
+2024-03-19 05:18:07,324 - Received request for test_953.jpg
+2024-03-19 05:18:07,323 - Hi Ishuu
+2024-03-19 05:18:07,326 - Received request for test_012.jpg
+2024-03-19 05:18:09,031 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_629.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,062 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_991.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,065 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_601.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,075 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_826.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,079 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_946.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,097 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_563.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,102 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_239.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,114 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_211.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,118 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_985.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,135 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_007.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,199 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_588.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,205 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_952.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,207 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_749.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,211 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_577.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,214 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_370.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,216 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_173.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,220 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_953.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,237 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_614.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,251 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_172.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,265 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_198.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,274 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_012.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,293 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_364.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,297 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_205.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,334 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_761.jpg to 1225364608-in-bucket
+2024-03-19 05:18:09,356 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_365.jpg to 1225364608-in-bucket
+2024-03-19 05:18:10,751 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_629.jpg
+2024-03-19 05:18:10,795 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_239.jpg
+2024-03-19 05:18:10,798 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_211.jpg
+2024-03-19 05:18:10,819 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_601.jpg
+2024-03-19 05:18:10,820 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_991.jpg
+2024-03-19 05:18:10,820 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_563.jpg
+2024-03-19 05:18:10,825 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_826.jpg
+2024-03-19 05:18:10,825 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_985.jpg
+2024-03-19 05:18:10,862 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_173.jpg
+2024-03-19 05:18:10,862 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_749.jpg
+2024-03-19 05:18:10,866 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_007.jpg
+2024-03-19 05:18:10,873 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_172.jpg
+2024-03-19 05:18:10,874 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_577.jpg
+2024-03-19 05:18:10,874 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_370.jpg
+2024-03-19 05:18:10,865 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_588.jpg
+2024-03-19 05:18:10,887 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_198.jpg
+2024-03-19 05:18:10,888 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_953.jpg
+2024-03-19 05:18:10,889 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_946.jpg
+2024-03-19 05:18:10,890 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_012.jpg
+2024-03-19 05:18:10,892 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_952.jpg
+2024-03-19 05:18:10,893 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_761.jpg
+2024-03-19 05:18:10,900 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_365.jpg
+2024-03-19 05:18:10,902 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_205.jpg
+2024-03-19 05:18:10,912 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_614.jpg
+2024-03-19 05:18:10,913 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_364.jpg
+2024-03-19 05:19:04,950 - Result found for test_588 = Bill. Hence taking it and deleting it from DB
+2024-03-19 05:19:04,952 - Hi Ishuu
+2024-03-19 05:19:04,953 - Received request for test_775.jpg
+2024-03-19 05:19:05,090 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_775.jpg to 1225364608-in-bucket
+2024-03-19 05:19:05,100 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_775.jpg
+2024-03-19 05:19:07,895 - Result found for test_629 = Wang. Hence taking it and deleting it from DB
+2024-03-19 05:19:08,904 - Result found for test_991 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:08,906 - Hi Ishuu
+2024-03-19 05:19:08,907 - Received request for test_832.jpg
+2024-03-19 05:19:09,044 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_832.jpg to 1225364608-in-bucket
+2024-03-19 05:19:09,053 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_832.jpg
+2024-03-19 05:19:11,913 - Result found for test_239 = Wang. Hence taking it and deleting it from DB
+2024-03-19 05:19:11,915 - Hi Ishuu
+2024-03-19 05:19:11,916 - Received request for test_947.jpg
+2024-03-19 05:19:12,037 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_947.jpg to 1225364608-in-bucket
+2024-03-19 05:19:12,046 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_947.jpg
+2024-03-19 05:19:12,909 - Result found for test_601 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:12,911 - Hi Ishuu
+2024-03-19 05:19:12,913 - Received request for test_167.jpg
+2024-03-19 05:19:12,943 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_167.jpg to 1225364608-in-bucket
+2024-03-19 05:19:12,949 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_167.jpg
+2024-03-19 05:19:12,984 - Result found for test_205 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:12,985 - Hi Ishuu
+2024-03-19 05:19:12,986 - Received request for test_628.jpg
+2024-03-19 05:19:13,133 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_628.jpg to 1225364608-in-bucket
+2024-03-19 05:19:13,141 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_628.jpg
+2024-03-19 05:19:14,952 - Result found for test_007 = Ranil. Hence taking it and deleting it from DB
+2024-03-19 05:19:14,954 - Hi Ishuu
+2024-03-19 05:19:14,955 - Received request for test_615.jpg
+2024-03-19 05:19:14,985 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_615.jpg to 1225364608-in-bucket
+2024-03-19 05:19:14,992 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_615.jpg
+2024-03-19 05:19:16,916 - Result found for test_563 = German. Hence taking it and deleting it from DB
+2024-03-19 05:19:16,918 - Hi Ishuu
+2024-03-19 05:19:16,919 - Received request for test_013.jpg
+2024-03-19 05:19:16,962 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_013.jpg to 1225364608-in-bucket
+2024-03-19 05:19:16,970 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_013.jpg
+2024-03-19 05:19:16,974 - Result found for test_370 = Paul. Hence taking it and deleting it from DB
+2024-03-19 05:19:16,976 - Hi Ishuu
+2024-03-19 05:19:16,977 - Received request for test_417.jpg
+2024-03-19 05:19:17,124 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_417.jpg to 1225364608-in-bucket
+2024-03-19 05:19:17,218 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_417.jpg
+2024-03-19 05:19:18,923 - Result found for test_211 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:18,932 - Result found for test_826 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:18,988 - Result found for test_761 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:18,990 - Hi Ishuu
+2024-03-19 05:19:18,991 - Received request for test_416.jpg
+2024-03-19 05:19:19,042 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_416.jpg to 1225364608-in-bucket
+2024-03-19 05:19:19,048 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_416.jpg
+2024-03-19 05:19:19,988 - Result found for test_012 = Bob. Hence taking it and deleting it from DB
+2024-03-19 05:19:20,988 - Result found for test_198 = Bill. Hence taking it and deleting it from DB
+2024-03-19 05:19:20,990 - Hi Ishuu
+2024-03-19 05:19:20,991 - Received request for test_403.jpg
+2024-03-19 05:19:20,998 - Result found for test_953 = German. Hence taking it and deleting it from DB
+2024-03-19 05:19:21,061 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_403.jpg to 1225364608-in-bucket
+2024-03-19 05:19:21,068 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_403.jpg
+2024-03-19 05:19:21,971 - Result found for test_749 = Wang. Hence taking it and deleting it from DB
+2024-03-19 05:19:21,999 - Result found for test_365 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:22,000 - Hi Ishuu
+2024-03-19 05:19:22,002 - Received request for test_402.jpg
+2024-03-19 05:19:22,041 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_402.jpg to 1225364608-in-bucket
+2024-03-19 05:19:22,048 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_402.jpg
+2024-03-19 05:19:22,979 - Result found for test_172 = Bob. Hence taking it and deleting it from DB
+2024-03-19 05:19:22,980 - Hi Ishuu
+2024-03-19 05:19:22,982 - Received request for test_358.jpg
+2024-03-19 05:19:23,097 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_358.jpg to 1225364608-in-bucket
+2024-03-19 05:19:23,104 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_358.jpg
+2024-03-19 05:19:25,011 - Result found for test_615 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:25,013 - Hi Ishuu
+2024-03-19 05:19:25,014 - Received request for test_371.jpg
+2024-03-19 05:19:25,043 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_371.jpg to 1225364608-in-bucket
+2024-03-19 05:19:25,050 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_371.jpg
+2024-03-19 05:19:25,933 - Result found for test_985 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:26,021 - Result found for test_614 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:26,023 - Hi Ishuu
+2024-03-19 05:19:26,024 - Received request for test_833.jpg
+2024-03-19 05:19:26,062 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_833.jpg to 1225364608-in-bucket
+2024-03-19 05:19:26,070 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_833.jpg
+2024-03-19 05:19:26,135 - Result found for test_775 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:26,993 - Result found for test_577 = Ranil. Hence taking it and deleting it from DB
+2024-03-19 05:19:26,994 - Hi Ishuu
+2024-03-19 05:19:26,996 - Received request for test_359.jpg
+2024-03-19 05:19:27,019 - Result found for test_364 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:27,020 - Hi Ishuu
+2024-03-19 05:19:27,021 - Received request for test_166.jpg
+2024-03-19 05:19:27,023 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_359.jpg to 1225364608-in-bucket
+2024-03-19 05:19:27,030 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_359.jpg
+2024-03-19 05:19:27,032 - Result found for test_952 = Bob. Hence taking it and deleting it from DB
+2024-03-19 05:19:27,059 - Result found for test_402 = Bob. Hence taking it and deleting it from DB
+2024-03-19 05:19:27,061 - Hi Ishuu
+2024-03-19 05:19:27,062 - Received request for test_774.jpg
+2024-03-19 05:19:27,069 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_166.jpg to 1225364608-in-bucket
+2024-03-19 05:19:27,076 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_166.jpg
+2024-03-19 05:19:27,099 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_774.jpg to 1225364608-in-bucket
+2024-03-19 05:19:27,106 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_774.jpg
+2024-03-19 05:19:28,001 - Result found for test_946 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:28,003 - Hi Ishuu
+2024-03-19 05:19:28,005 - Received request for test_199.jpg
+2024-03-19 05:19:28,054 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_199.jpg to 1225364608-in-bucket
+2024-03-19 05:19:28,061 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_199.jpg
+2024-03-19 05:19:28,240 - Result found for test_417 = Ranil. Hence taking it and deleting it from DB
+2024-03-19 05:19:28,241 - Hi Ishuu
+2024-03-19 05:19:28,243 - Received request for test_760.jpg
+2024-03-19 05:19:28,268 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_760.jpg to 1225364608-in-bucket
+2024-03-19 05:19:28,276 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_760.jpg
+2024-03-19 05:19:29,008 - Result found for test_013 = German. Hence taking it and deleting it from DB
+2024-03-19 05:19:29,120 - Result found for test_358 = Bill. Hence taking it and deleting it from DB
+2024-03-19 05:19:29,121 - Hi Ishuu
+2024-03-19 05:19:29,123 - Received request for test_827.jpg
+2024-03-19 05:19:29,150 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_827.jpg to 1225364608-in-bucket
+2024-03-19 05:19:29,157 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_827.jpg
+2024-03-19 05:19:29,974 - Result found for test_173 = German. Hence taking it and deleting it from DB
+2024-03-19 05:19:29,975 - Hi Ishuu
+2024-03-19 05:19:29,977 - Received request for test_748.jpg
+2024-03-19 05:19:30,036 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_748.jpg to 1225364608-in-bucket
+2024-03-19 05:19:30,044 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_748.jpg
+2024-03-19 05:19:31,077 - Result found for test_947 = Ranil. Hence taking it and deleting it from DB
+2024-03-19 05:19:31,116 - Result found for test_774 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:31,117 - Hi Ishuu
+2024-03-19 05:19:31,118 - Received request for test_990.jpg
+2024-03-19 05:19:31,157 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_990.jpg to 1225364608-in-bucket
+2024-03-19 05:19:31,163 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_990.jpg
+2024-03-19 05:19:31,981 - Result found for test_167 = Ranil. Hence taking it and deleting it from DB
+2024-03-19 05:19:32,070 - Result found for test_416 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:32,072 - Hi Ishuu
+2024-03-19 05:19:32,073 - Received request for test_984.jpg
+2024-03-19 05:19:32,138 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_984.jpg to 1225364608-in-bucket
+2024-03-19 05:19:32,145 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_984.jpg
+2024-03-19 05:19:33,088 - Result found for test_166 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:33,090 - Hi Ishuu
+2024-03-19 05:19:33,091 - Received request for test_006.jpg
+2024-03-19 05:19:33,138 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_006.jpg to 1225364608-in-bucket
+2024-03-19 05:19:33,145 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_006.jpg
+2024-03-19 05:19:33,170 - Result found for test_628 = Bill. Hence taking it and deleting it from DB
+2024-03-19 05:19:33,172 - Hi Ishuu
+2024-03-19 05:19:33,173 - Received request for test_600.jpg
+2024-03-19 05:19:33,225 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_600.jpg to 1225364608-in-bucket
+2024-03-19 05:19:33,233 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_600.jpg
+2024-03-19 05:19:33,288 - Result found for test_760 = Paul. Hence taking it and deleting it from DB
+2024-03-19 05:19:34,066 - Result found for test_371 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:34,098 - Result found for test_403 = German. Hence taking it and deleting it from DB
+2024-03-19 05:19:36,051 - Result found for test_359 = Wang. Hence taking it and deleting it from DB
+2024-03-19 05:19:36,080 - Result found for test_199 = Wang. Hence taking it and deleting it from DB
+2024-03-19 05:19:36,171 - Result found for test_827 = Ranil. Hence taking it and deleting it from DB
+2024-03-19 05:19:37,091 - Result found for test_833 = German. Hence taking it and deleting it from DB
+2024-03-19 05:19:37,156 - Result found for test_984 = Emily. Hence taking it and deleting it from DB
+2024-03-19 05:19:38,059 - Result found for test_748 = Bill. Hence taking it and deleting it from DB
+2024-03-19 05:19:38,178 - Result found for test_990 = Paul. Hence taking it and deleting it from DB
+2024-03-19 05:19:39,159 - Result found for test_006 = Gerry. Hence taking it and deleting it from DB
+2024-03-19 05:19:39,247 - Result found for test_600 = Paul. Hence taking it and deleting it from DB
+2024-03-19 05:19:41,103 - Result found for test_832 = Bob. Hence taking it and deleting it from DB
+2024-03-22 18:46:27,507 - Hi Ishuu
+2024-03-22 18:46:27,512 - Received request for test_577.jpg
+2024-03-22 18:46:27,508 - Hi Ishuu
+2024-03-22 18:46:27,513 - Received request for test_749.jpg
+2024-03-22 18:46:27,509 - Hi Ishuu
+2024-03-22 18:46:27,514 - Received request for test_013.jpg
+2024-03-22 18:46:27,510 - Hi Ishuu
+2024-03-22 18:46:27,515 - Received request for test_239.jpg
+2024-03-22 18:46:27,510 - Hi Ishuu
+2024-03-22 18:46:27,516 - Received request for test_991.jpg
+2024-03-22 18:46:27,527 - Hi Ishuu
+2024-03-22 18:46:27,531 - Hi Ishuu
+2024-03-22 18:46:27,533 - Received request for test_775.jpg
+2024-03-22 18:46:27,533 - Hi Ishuu
+2024-03-22 18:46:27,533 - Hi Ishuu
+2024-03-22 18:46:27,534 - Hi Ishuu
+2024-03-22 18:46:27,534 - Hi Ishuu
+2024-03-22 18:46:27,539 - Received request for test_205.jpg
+2024-03-22 18:46:27,538 - Received request for test_946.jpg
+2024-03-22 18:46:27,535 - Received request for test_832.jpg
+2024-03-22 18:46:27,537 - Received request for test_007.jpg
+2024-03-22 18:46:27,529 - Received request for test_629.jpg
+2024-03-22 18:46:27,529 - Hi Ishuu
+2024-03-22 18:46:27,529 - Hi Ishuu
+2024-03-22 18:46:27,544 - Received request for test_359.jpg
+2024-03-22 18:46:27,530 - Hi Ishuu
+2024-03-22 18:46:27,530 - Hi Ishuu
+2024-03-22 18:46:27,545 - Received request for test_211.jpg
+2024-03-22 18:46:27,546 - Received request for test_416.jpg
+2024-03-22 18:46:27,543 - Received request for test_601.jpg
+2024-03-22 18:46:27,553 - Hi Ishuu
+2024-03-22 18:46:27,555 - Received request for test_172.jpg
+2024-03-22 18:46:27,556 - Hi Ishuu
+2024-03-22 18:46:27,557 - Received request for test_628.jpg
+2024-03-22 18:46:27,560 - Hi Ishuu
+2024-03-22 18:46:27,561 - Received request for test_403.jpg
+2024-03-22 18:46:27,562 - Hi Ishuu
+2024-03-22 18:46:27,564 - Received request for test_760.jpg
+2024-03-22 18:46:27,569 - Hi Ishuu
+2024-03-22 18:46:27,570 - Received request for test_006.jpg
+2024-03-22 18:46:27,570 - Hi Ishuu
+2024-03-22 18:46:27,571 - Received request for test_774.jpg
+2024-03-22 18:46:27,573 - Hi Ishuu
+2024-03-22 18:46:27,574 - Received request for test_827.jpg
+2024-03-22 18:46:27,578 - Hi Ishuu
+2024-03-22 18:46:27,580 - Received request for test_953.jpg
+2024-03-22 18:46:29,188 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_760.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,199 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_991.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,203 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_359.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,207 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_953.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,212 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_416.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,217 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_628.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,220 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_827.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,228 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_749.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,239 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_205.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,241 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_577.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,263 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_211.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,293 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_946.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,311 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_239.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,315 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_774.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,323 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_013.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,337 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_601.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,380 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_403.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,384 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_629.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,391 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_172.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,426 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_775.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,436 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_006.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,516 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_007.jpg to 1225364608-in-bucket
+2024-03-22 18:46:29,557 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_832.jpg to 1225364608-in-bucket
+2024-03-22 18:46:30,797 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_577.jpg
+2024-03-22 18:46:30,803 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_211.jpg
+2024-03-22 18:46:30,808 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_628.jpg
+2024-03-22 18:46:30,815 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_946.jpg
+2024-03-22 18:46:30,815 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_205.jpg
+2024-03-22 18:46:30,818 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_827.jpg
+2024-03-22 18:46:30,819 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_749.jpg
+2024-03-22 18:46:30,819 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_991.jpg
+2024-03-22 18:46:30,821 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_359.jpg
+2024-03-22 18:46:30,821 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_013.jpg
+2024-03-22 18:46:30,823 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_239.jpg
+2024-03-22 18:46:30,831 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_953.jpg
+2024-03-22 18:46:30,834 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_760.jpg
+2024-03-22 18:46:30,839 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_601.jpg
+2024-03-22 18:46:30,841 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_416.jpg
+2024-03-22 18:46:30,843 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_774.jpg
+2024-03-22 18:46:30,861 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_172.jpg
+2024-03-22 18:46:30,865 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_403.jpg
+2024-03-22 18:46:30,871 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_629.jpg
+2024-03-22 18:46:30,876 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_006.jpg
+2024-03-22 18:46:30,879 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_775.jpg
+2024-03-22 18:46:30,882 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_007.jpg
+2024-03-22 18:46:30,888 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_832.jpg
+2024-03-22 18:47:39,950 - Result found for test_827 = Ranil. Hence taking it and deleting it from DB
+2024-03-22 18:47:40,961 - Result found for test_749 = Wang. Hence taking it and deleting it from DB
+2024-03-22 18:47:40,962 - Hi Ishuu
+2024-03-22 18:47:40,963 - Received request for test_984.jpg
+2024-03-22 18:47:41,084 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_984.jpg to 1225364608-in-bucket
+2024-03-22 18:47:41,173 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_984.jpg
+2024-03-22 18:47:44,963 - Result found for test_205 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:47:44,965 - Hi Ishuu
+2024-03-22 18:47:44,967 - Received request for test_563.jpg
+2024-03-22 18:47:44,968 - Result found for test_211 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:47:44,971 - Hi Ishuu
+2024-03-22 18:47:44,972 - Received request for test_371.jpg
+2024-03-22 18:47:45,157 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_371.jpg to 1225364608-in-bucket
+2024-03-22 18:47:45,162 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_563.jpg to 1225364608-in-bucket
+2024-03-22 18:47:45,308 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_563.jpg
+2024-03-22 18:47:45,312 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_371.jpg
+2024-03-22 18:47:46,964 - Result found for test_774 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:47:46,966 - Hi Ishuu
+2024-03-22 18:47:46,968 - Received request for test_199.jpg
+2024-03-22 18:47:46,975 - Result found for test_991 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:47:46,978 - Hi Ishuu
+2024-03-22 18:47:46,979 - Received request for test_833.jpg
+2024-03-22 18:47:47,002 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_199.jpg to 1225364608-in-bucket
+2024-03-22 18:47:47,009 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_199.jpg
+2024-03-22 18:47:47,157 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_833.jpg to 1225364608-in-bucket
+2024-03-22 18:47:47,251 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_833.jpg
+2024-03-22 18:47:47,975 - Result found for test_577 = Ranil. Hence taking it and deleting it from DB
+2024-03-22 18:47:47,977 - Hi Ishuu
+2024-03-22 18:47:47,979 - Received request for test_990.jpg
+2024-03-22 18:47:48,049 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_990.jpg to 1225364608-in-bucket
+2024-03-22 18:47:48,083 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_990.jpg
+2024-03-22 18:47:48,963 - Result found for test_416 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:47:48,965 - Hi Ishuu
+2024-03-22 18:47:48,966 - Received request for test_173.jpg
+2024-03-22 18:47:48,976 - Result found for test_953 = German. Hence taking it and deleting it from DB
+2024-03-22 18:47:49,015 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_173.jpg to 1225364608-in-bucket
+2024-03-22 18:47:49,023 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_173.jpg
+2024-03-22 18:47:52,325 - Result found for test_371 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:47:52,327 - Hi Ishuu
+2024-03-22 18:47:52,328 - Received request for test_365.jpg
+2024-03-22 18:47:52,361 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_365.jpg to 1225364608-in-bucket
+2024-03-22 18:47:52,367 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_365.jpg
+2024-03-22 18:47:52,992 - Result found for test_403 = German. Hence taking it and deleting it from DB
+2024-03-22 18:47:53,001 - Result found for test_239 = Wang. Hence taking it and deleting it from DB
+2024-03-22 18:47:53,002 - Hi Ishuu
+2024-03-22 18:47:53,003 - Received request for test_166.jpg
+2024-03-22 18:47:53,035 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_166.jpg to 1225364608-in-bucket
+2024-03-22 18:47:53,042 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_166.jpg
+2024-03-22 18:47:53,971 - Result found for test_601 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:47:53,973 - Hi Ishuu
+2024-03-22 18:47:53,974 - Received request for test_358.jpg
+2024-03-22 18:47:53,977 - Result found for test_172 = Bob. Hence taking it and deleting it from DB
+2024-03-22 18:47:53,978 - Hi Ishuu
+2024-03-22 18:47:53,980 - Received request for test_012.jpg
+2024-03-22 18:47:54,014 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_012.jpg to 1225364608-in-bucket
+2024-03-22 18:47:54,016 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_358.jpg to 1225364608-in-bucket
+2024-03-22 18:47:54,023 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_358.jpg
+2024-03-22 18:47:54,024 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_012.jpg
+2024-03-22 18:47:54,266 - Result found for test_833 = German. Hence taking it and deleting it from DB
+2024-03-22 18:47:54,991 - Result found for test_629 = Wang. Hence taking it and deleting it from DB
+2024-03-22 18:47:54,993 - Hi Ishuu
+2024-03-22 18:47:54,995 - Received request for test_615.jpg
+2024-03-22 18:47:54,997 - Result found for test_006 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:47:55,029 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_615.jpg to 1225364608-in-bucket
+2024-03-22 18:47:55,036 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_615.jpg
+2024-03-22 18:47:55,098 - Result found for test_990 = Paul. Hence taking it and deleting it from DB
+2024-03-22 18:47:56,037 - Result found for test_173 = German. Hence taking it and deleting it from DB
+2024-03-22 18:47:56,038 - Hi Ishuu
+2024-03-22 18:47:56,042 - Received request for test_364.jpg
+2024-03-22 18:47:56,078 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_364.jpg to 1225364608-in-bucket
+2024-03-22 18:47:56,084 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_364.jpg
+2024-03-22 18:47:56,975 - Result found for test_013 = German. Hence taking it and deleting it from DB
+2024-03-22 18:47:56,986 - Result found for test_760 = Paul. Hence taking it and deleting it from DB
+2024-03-22 18:47:56,992 - Result found for test_359 = Wang. Hence taking it and deleting it from DB
+2024-03-22 18:47:56,993 - Hi Ishuu
+2024-03-22 18:47:56,994 - Received request for test_417.jpg
+2024-03-22 18:47:57,012 - Result found for test_775 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:47:57,013 - Hi Ishuu
+2024-03-22 18:47:57,014 - Received request for test_167.jpg
+2024-03-22 18:47:57,027 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_417.jpg to 1225364608-in-bucket
+2024-03-22 18:47:57,034 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_417.jpg
+2024-03-22 18:47:57,215 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_167.jpg to 1225364608-in-bucket
+2024-03-22 18:47:57,222 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_167.jpg
+2024-03-22 18:47:57,379 - Result found for test_365 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:47:57,380 - Hi Ishuu
+2024-03-22 18:47:57,381 - Received request for test_370.jpg
+2024-03-22 18:47:57,452 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_370.jpg to 1225364608-in-bucket
+2024-03-22 18:47:57,458 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_370.jpg
+2024-03-22 18:47:58,013 - Result found for test_628 = Bill. Hence taking it and deleting it from DB
+2024-03-22 18:47:59,008 - Result found for test_946 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:47:59,009 - Hi Ishuu
+2024-03-22 18:47:59,010 - Received request for test_985.jpg
+2024-03-22 18:47:59,060 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_985.jpg to 1225364608-in-bucket
+2024-03-22 18:47:59,066 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_985.jpg
+2024-03-22 18:48:00,039 - Result found for test_012 = Bob. Hence taking it and deleting it from DB
+2024-03-22 18:48:00,047 - Result found for test_358 = Bill. Hence taking it and deleting it from DB
+2024-03-22 18:48:00,049 - Hi Ishuu
+2024-03-22 18:48:00,051 - Received request for test_614.jpg
+2024-03-22 18:48:00,122 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_614.jpg to 1225364608-in-bucket
+2024-03-22 18:48:00,129 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_614.jpg
+2024-03-22 18:48:01,020 - Result found for test_832 = Bob. Hence taking it and deleting it from DB
+2024-03-22 18:48:01,022 - Hi Ishuu
+2024-03-22 18:48:01,023 - Received request for test_198.jpg
+2024-03-22 18:48:01,065 - Result found for test_166 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:48:01,079 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_198.jpg to 1225364608-in-bucket
+2024-03-22 18:48:01,085 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_198.jpg
+2024-03-22 18:48:01,094 - Result found for test_364 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:48:01,096 - Hi Ishuu
+2024-03-22 18:48:01,097 - Received request for test_402.jpg
+2024-03-22 18:48:01,126 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_402.jpg to 1225364608-in-bucket
+2024-03-22 18:48:01,132 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_402.jpg
+2024-03-22 18:48:01,232 - Result found for test_167 = Ranil. Hence taking it and deleting it from DB
+2024-03-22 18:48:01,234 - Hi Ishuu
+2024-03-22 18:48:01,235 - Received request for test_588.jpg
+2024-03-22 18:48:01,266 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_588.jpg to 1225364608-in-bucket
+2024-03-22 18:48:01,272 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_588.jpg
+2024-03-22 18:48:02,035 - Result found for test_199 = Wang. Hence taking it and deleting it from DB
+2024-03-22 18:48:02,056 - Result found for test_615 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:48:02,057 - Hi Ishuu
+2024-03-22 18:48:02,058 - Received request for test_600.jpg
+2024-03-22 18:48:02,138 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_600.jpg to 1225364608-in-bucket
+2024-03-22 18:48:02,146 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_600.jpg
+2024-03-22 18:48:02,208 - Result found for test_984 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:48:02,338 - Result found for test_563 = German. Hence taking it and deleting it from DB
+2024-03-22 18:48:02,340 - Hi Ishuu
+2024-03-22 18:48:02,341 - Received request for test_952.jpg
+2024-03-22 18:48:02,370 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_952.jpg to 1225364608-in-bucket
+2024-03-22 18:48:02,378 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_952.jpg
+2024-03-22 18:48:03,471 - Result found for test_370 = Paul. Hence taking it and deleting it from DB
+2024-03-22 18:48:04,030 - Result found for test_007 = Ranil. Hence taking it and deleting it from DB
+2024-03-22 18:48:04,031 - Hi Ishuu
+2024-03-22 18:48:04,032 - Received request for test_826.jpg
+2024-03-22 18:48:04,050 - Result found for test_417 = Ranil. Hence taking it and deleting it from DB
+2024-03-22 18:48:04,090 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_826.jpg to 1225364608-in-bucket
+2024-03-22 18:48:04,097 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_826.jpg
+2024-03-22 18:48:05,087 - Result found for test_985 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:48:05,089 - Hi Ishuu
+2024-03-22 18:48:05,090 - Received request for test_761.jpg
+2024-03-22 18:48:05,173 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_761.jpg to 1225364608-in-bucket
+2024-03-22 18:48:05,180 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_761.jpg
+2024-03-22 18:48:05,283 - Result found for test_588 = Bill. Hence taking it and deleting it from DB
+2024-03-22 18:48:05,285 - Hi Ishuu
+2024-03-22 18:48:05,286 - Received request for test_947.jpg
+2024-03-22 18:48:05,318 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_947.jpg to 1225364608-in-bucket
+2024-03-22 18:48:05,325 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_947.jpg
+2024-03-22 18:48:06,142 - Result found for test_614 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:48:06,156 - Result found for test_600 = Paul. Hence taking it and deleting it from DB
+2024-03-22 18:48:06,388 - Result found for test_952 = Bob. Hence taking it and deleting it from DB
+2024-03-22 18:48:06,390 - Hi Ishuu
+2024-03-22 18:48:06,391 - Received request for test_748.jpg
+2024-03-22 18:48:06,437 - Uploaded /home/ubuntu/ishproj1/face_images_1000/test_748.jpg to 1225364608-in-bucket
+2024-03-22 18:48:06,444 - Copied to request SQS:  s3://1225364608-in-bucket//home/ubuntu/ishproj1/face_images_1000/test_748.jpg
+2024-03-22 18:48:07,098 - Result found for test_198 = Bill. Hence taking it and deleting it from DB
+2024-03-22 18:48:07,149 - Result found for test_402 = Bob. Hence taking it and deleting it from DB
+2024-03-22 18:48:10,110 - Result found for test_826 = Gerry. Hence taking it and deleting it from DB
+2024-03-22 18:48:10,341 - Result found for test_947 = Ranil. Hence taking it and deleting it from DB
+2024-03-22 18:48:11,205 - Result found for test_761 = Emily. Hence taking it and deleting it from DB
+2024-03-22 18:48:12,458 - Result found for test_748 = Bill. Hence taking it and deleting it from DB
